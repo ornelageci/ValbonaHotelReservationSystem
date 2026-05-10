@@ -1,7 +1,13 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+
+### Java ###
+*.class
+*.log
 
 ### Eclipse ###
 .apt_generated
