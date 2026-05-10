@@ -1,0 +1,6 @@
+Ornela booked Room 101 at 2026-05-10T17:22:03.843399300
+Lela booked Room 103 at 2026-05-10T17:26:35.009158400
+Miri booked Room 210 (Premium River View Room) | Price: €150.0 | Check-in: 2026-05-10 | Check-out: 2026-05-13 | Booking Time: 2026-05-10T17:28:55.616707100
+lela booked room 203
+lela booked Room 105
+Ola Geci booked Room 203
