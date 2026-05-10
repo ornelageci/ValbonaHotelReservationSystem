@@ -1,57 +1,68 @@
-# Valbona River Hotel Reservation System
+# Valbona Hotel Reservation System 🏨
 
-## Project Description
-This project is a multithreaded client-server hotel reservation system developed in Java using sockets.
+A Java-based hotel reservation system developed to manage room bookings, availability, and customer reservations efficiently. This project demonstrates Object-Oriented Programming principles, file handling, and system design concepts.
 
-The system allows multiple clients to connect to the hotel server simultaneously and perform hotel booking operations such as:
+---
 
-- Viewing available rooms
-- Booking rooms
-- Canceling reservations
-- Logging booking history
+## Project Overview
+The system allows users to:
+- Book hotel rooms
+- Check room availability
+- Manage customer reservations
+- Store booking information
+- View reservation records
 
-This project was inspired by Valbona River Hotel.
+This project was built as part of academic coursework and showcases practical Java development skills.
+
+---
+
+## Features
+✔ Room reservation management  
+✔ Booking availability check  
+✔ Customer information storage  
+✔ File-based booking records  
+✔ Simple and user-friendly structure  
 
 ---
 
 ## Technologies Used
 - Java
-- Multithreading
-- Socket Programming
-- ExecutorService
-- ReentrantLock
+- Object-Oriented Programming (OOP)
 - File Handling
+- IntelliJ IDEA
+- GitHub
 
 ---
 
-## Features
-- Multiple clients handled simultaneously
-- Separate thread for each client
-- Prevents double booking
-- Stores booking history in bookings.txt
+## Project Structure
+``` id="17o3fc"
+src/
+│── Main.java
+│── models/
+│── services/
+│── utils/
+```
 
 ---
 
-## How to Run
+## System Architecture
+The project includes an architecture diagram to demonstrate the system structure.
 
-1. Run HotelServer.java
-2. Run multiple instances of HotelClient.java
-3. Start booking rooms
+- architecture-diagram.png
+
+---
+
+## Future Improvements
+- Add database integration (MySQL)
+- Build graphical user interface
+- Add payment integration
+- Improve booking validation
 
 ---
 
 ## Author
-Ornela Geci
+**Ornela Geci**
 
-# Valbona Hotel Reservation System
+Computer Engineering Student passionate about software development, programming, and digital innovation.
 
-A multithreaded client-server hotel booking system built in Java.
-
-## Features
-- Room booking
-- Cancellation
-- Multithreading
-- File logging
-- Room suggestions
-
-## System Architecture
+GitHub: https://github.com/ornelageci
